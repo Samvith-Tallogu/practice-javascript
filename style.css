@@ -1,0 +1,13 @@
+html {
+	text-align: center;
+}
+body{
+	background-image: linear-gradient(yellow,orange );
+}
+
+section{
+	width: fit-content;
+}
+#lan{
+	width: fit-content;
+}
