@@ -50,4 +50,12 @@ header {
   }
   body{
 	  background-image: linear-gradient(yellow, orange);
+	  text-align: center;
   }
+  #up_lbl{
+	  padding-top: 250px;
+  }
+#album{
+	height: 40%;
+	width: auto;
+}

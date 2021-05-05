@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <script src="main.js"></script>
+        <link href="style.css" rel="stylesheet" type="text/css">
+    </head>
+    <h2>Calculator</h2>
+    <h3>Enter two numbers for which the following math operations are supported</h3>
+    <h4>Add, Subtract, Multiply & Divide</h4>
+    <body id="calculatorbody">
+        <span>
+            <br>
+            <br>
+            Number 1<input type="number" id="n1" value=""> <br>
+            Nunber 2<input type="number" id="n2" value="">
+            <br>
+            <br>
+        </span>
+        <br><br>
+   <span>
+    <button type="submit" id="b_add" onclick="sum_number()">Add </button>
+    <button type="submit" id="b_sub" onclick="sub_number()">Subtract </button>
+    <button type="submit" id="b_mul" onclick="mul_number()">Multiply </button>
+    <button type="submit" id="b_div" onclick="div_number()">Divide </button>
+   </span>
+    <br>
+    <br>
+    <h3>Answer: </h3>
+    <label id="lbl"></label>
+    <br>
+    <a href="index.html">Back</a>
+    </body>
+</html>
