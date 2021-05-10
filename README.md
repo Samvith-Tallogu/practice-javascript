@@ -15,12 +15,15 @@ Example:
 <header> This is my Page Header </header>
 ```
 # 2. Section
-A section tag is used to define a particular section of the page.
+A section tag is used to define a particular section of the page, you can add multiple tags inside a section.
 The following tags are used for a section:
 ```html
 <section> </section>
 ```
 Example:
 ```html
-<section>This is the Section tag</section>
+<section>
+    <label>This is a label inside the section tag</label>
+    <h1>This is a h1 tag inside the section tag</h1>
+</section>
 ```
