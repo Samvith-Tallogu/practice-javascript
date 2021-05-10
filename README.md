@@ -57,7 +57,8 @@ For Example:
 
 # 5. Button
 A button tag is used to display a button on the Screen, it defines a clickable button.
+
 For Example
 ```html
-<button id="Button1" onclick="function1()">
+<button id="Button1" onclick="function1()"></button>
 ```
