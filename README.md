@@ -14,6 +14,13 @@ Example:
 ```html
 <header> This is my Page Header </header>
 ```
-2. Article: For Aligning Items Towards the Right Side of Screen.
-3. Footer: For Aligning Items towards The Bottom.
-4. Section: For defining a Particular section of the web page.
+# 2. Section
+A section tag is used to define a particular section of the page.
+The following tags are used for a section:
+```html
+<section> </section>
+```
+Example:
+```html
+<section>This is the Section tag</section>
+```
