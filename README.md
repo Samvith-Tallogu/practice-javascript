@@ -32,8 +32,10 @@ In the following HTML code, the style definition of the section applies to both 
 </section>
 ```
 # 3. Script
-A script tag is used to link a JavaScript file with a HTML file, It can also be used for writing the JS Code within the HTML File.
+A script tag is used in two ways
 
+1. To link a JavaScript file with a HTML file.
+2. It can also be used for writing the JS Code within the HTML File.
 Here is how I linked the JS file with the HTML:
 ```html
 <script src="main.js"></script>
