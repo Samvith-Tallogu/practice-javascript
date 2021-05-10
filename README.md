@@ -1,4 +1,4 @@
-# practice-javascript
+# Practice-javascript
 
 Link to access this project: https://samvith-tallogu.github.io/practise-javascript/
 
