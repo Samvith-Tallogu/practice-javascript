@@ -36,11 +36,12 @@ A script tag is used in two ways
 
 1. To link a JavaScript file with a HTML file.
 2. It can also be used for writing the JS Code within the HTML File.
+
 Here is how I linked the JS file with the HTML:
 ```html
 <script src="main.js"></script>
 ```
-
+And here is how you write the JS Code within The HTML file:
 ```html
 <script>
 //JS Code here
