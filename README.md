@@ -31,3 +31,16 @@ In the following HTML code, the style definition of the section applies to both 
     <p> This is a paragraph </p>
 </section>
 ```
+# 3. Script
+A script tag is used to link a JavaScript file with a HTML file, It can also be used for writing the JS Code within the HTML File.
+
+Here is how I linked the JS file with the HTML:
+```html
+<script src="main.js"></script>
+```
+And here is how you write the JS Code within The HTML file:
+```html
+<script>
+//JS Code here
+</script>
+```
