@@ -47,3 +47,17 @@ And here is how you write the JS Code within The HTML file:
 //JS Code here
 </script>
 ```
+# 4. Label
+A label tag is used to display a text on the Page
+
+For Example:
+```html
+<label>This is a label tag</label>
+```
+
+# 5. Button
+A button tag is used to display a button on the Screen, it defines a clickable button.
+For Example
+```html
+<button id="Button1" onclick="function1()">
+```
