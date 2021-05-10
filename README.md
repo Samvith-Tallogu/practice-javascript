@@ -40,7 +40,7 @@ Here is how I linked the JS file with the HTML:
 ```html
 <script src="main.js"></script>
 ```
-And here is how you write the JS Code within The HTML file:
+
 ```html
 <script>
 //JS Code here
