@@ -62,3 +62,18 @@ For Example
 ```html
 <button id="Button1" onclick="function1()"></button>
 ```
+
+# 6. Container
+Container class allows you to position your content within a particular place in the page, It also allows you to style it in the CSS easily.
+
+For Example:
+```html
+<div class="container">This div is a container</div>
+```
+CSS Code:
+```css
+.container{
+    background-color:red;
+    padding:20px;
+}
+```
